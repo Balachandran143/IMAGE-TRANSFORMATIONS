@@ -19,10 +19,10 @@ Continue the program by implementing the codes of required topics.
 Thus the program is executed in google colab.
 
 ## Program:
-
-#### Developed By : BALACHANDRAN S
-#### Register Number : 212222100008
-
+```
+ Developed By : BALACHANDRAN S
+ Register Number : 212222100008
+```
 ### Installing OpenCV , importing necessary libraries and displaying images  
 
 ```py
